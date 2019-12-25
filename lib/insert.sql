@@ -1,1 +1,1 @@
-relative require '.data.sql'
+relative require '..lib/data.sql'
