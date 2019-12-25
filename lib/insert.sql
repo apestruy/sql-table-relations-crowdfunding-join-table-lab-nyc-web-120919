@@ -1,1 +1,1 @@
-require relative '.data.sql'
+require relative './data.sql'
